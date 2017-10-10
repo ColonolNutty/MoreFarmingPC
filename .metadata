@@ -1,0 +1,10 @@
+{
+  "author" : "ColonolNutty",
+  "description" : "THIS REQUIRES \"CN MORE FARMING: REVITALIZATION\" LOOK FOR A LOOK IN THE REQUIREMENTS SECTION TO THE RIGHT\n\nThis probably won't need much detail, so I'll keep it simple and short.\nThis patch changes all farmable crops from the \"CN More Farming: Revitalization\" mod to be both Perennial and Compact.\n\nLet me know down in the comments if and when you run into issues. I haven't gone through each and every crop by hand due to the sheer number of them, so there are bound to be a few here and there.",
+  "friendlyName" : "CN More Farming: Perennial and Compact Patch",
+  "includes" : ["MoreFarming"],
+  "link" : "steam://url/CommunityFilePage/1164999940",
+  "name" : "MoreFarmingPC",
+  "steamContentId" : "1164999940",
+  "version" : "v1.0"
+}
