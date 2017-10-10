@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "op" : "test",
+      "path" : "/orientations/0/imagePosition",
+      "inverse" : true
+    },
+    {
+      "op" : "add",
+      "path" : "/orientations/0/imagePosition",
+      "value" : [
+        []
+      ]
+    }
+  ],
+  [
+    {
+      "op" : "test",
+      "path" : "/orientations/0/spaces",
+      "inverse" : true
+    },
+    {
+      "op" : "add",
+      "path" : "/orientations/0/spaces",
+      "value" : [
+        []
+      ]
+    }
+  ],
+  [
+    {
+      "op" : "replace",
+      "path" : "/orientations/0/imagePosition",
+      "value" : [
+        -4,
+        0
+      ]
+    },
+    {
+      "op" : "replace",
+      "path" : "/orientations/0/spaces",
+      "value" : [
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  ]
+]
